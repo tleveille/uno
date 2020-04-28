@@ -1,6 +1,4 @@
-Python app. It's a simple JSON like this:
-
- {
+{
   "schemaVersion": 2,
   "templateId": "node/8"
- }
+}
